@@ -1,0 +1,13 @@
+
+Total Elapsed Runtime: 70.07011270523071 in seconds.
+Argument 1: uploaded_images/
+Command Line Arguments:
+     dir = uploaded_images/ 
+    arch = alexnet 
+ dogfile = dognames.txt
+
+Prints 10 filenames from folder pet_images/
+ 1 file:    mil german shepard.jpg
+ 2 file:               penguin.jpg
+ 3 file: Po_(from_Kung_Fu_Panda)_as_Drew_Pickles.jpg
+ 4 file:                   fox.jpg
